@@ -9,6 +9,8 @@
 
 Projet Dashboard App construite avec Next.js 14, proposée sur leur site officiel afin de se familiariser avec la dernière version et appréhender de manière efficace Next.Js 14.
 
+## 🔗 [Live](https://next-js-dashboard-ad.vercel.app)
+
 ## Configuration du Projet
 
 ### Installation
